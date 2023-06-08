@@ -105,11 +105,13 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
 
+write all the steps invloved 
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: R.Dineshkumar.
 RegisterNumber:  212222050010
+```
 
 ### PROGRAM (SR FF)
 ```
